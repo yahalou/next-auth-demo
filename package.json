@@ -7,7 +7,6 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    // vercel部署需要下面这行
     "postinstall": "prisma generate"
   },
   "dependencies": {
